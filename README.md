@@ -14,7 +14,7 @@ MRI brain scan data sourced from:
 -Alzheimer’s Disease Neuroimaging Initiative (ADNI)
 -Kaggle Alzheimer’s MRI Datasets
 
-# Technologies Used
+# 🔧Technologies Used
 Python
 TensorFlow / Keras
 Numpy, Matplotlib, Seaborn
